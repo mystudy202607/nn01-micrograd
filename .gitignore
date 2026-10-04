@@ -1,0 +1,6 @@
+# build intermediates — not needed by the published page
+sentences.json
+sentences_enriched.json
+chapters.json
+*.pyc
+__pycache__/
